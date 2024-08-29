@@ -8,9 +8,9 @@ The Hertzsprung-Russell (HR) Diagram is a valuable tool for visualizing stellar 
 
 A simplified formula to estimate the main-sequence lifetime ($\tau$) of a star based on its mass ($M$) is:
 
-$\[
+$$
 \tau \approx 10^{10} \left(\frac{M_\odot}{M}\right)^{2.5} \text{ years}
-\]$
+$$
 
 Where $M_\odot$ is the mass of the Sun. This formula provides an approximation but is not universally accurate, primarily designed to match the Sun’s observed main sequence lifetime.
 
@@ -49,6 +49,20 @@ The plot of stellar main sequence age as a function of stellar mass confirmed an
 The project successfully demonstrated that a star’s main sequence lifetime is inversely proportional to its mass. Massive stars, despite having more hydrogen, burn their fuel at a much faster rate due to higher internal temperatures caused by greater gravitational pressure. Consequently, they spend significantly less time on the main sequence compared to smaller stars.
 
 The HR diagrams and main sequence age vs. mass plots highlighted the critical role of stellar mass in determining a star’s lifespan and evolutionary path. Massive, bright stars live shorter lives, while smaller, fainter stars can remain stable for billions of years.
+
+The following files have been uploaded to this repository:
+
+1. **Project - Data.xlsx**: Contains the collected stellar property data used for analysis.
+2. **Stellar Evolution Analysis.ipynb**: Jupyter Notebook file with code and analysis.
+3. **summary_0.2M.txt**: Stellar data summary for a star with 0.2 solar masses.
+4. **summary_0.4M.txt**: Stellar data summary for a star with 0.4 solar masses.
+5. **summary_0.6M.txt**: Stellar data summary for a star with 0.6 solar masses.
+6. **summary_1M.txt**: Stellar data summary for a star with 1 solar mass.
+7. **summary_2M.txt**: Stellar data summary for a star with 2 solar masses.
+8. **summary_4M.txt**: Stellar data summary for a star with 4 solar masses.
+9. **summary_6M.txt**: Stellar data summary for a star with 6 solar masses.
+10. **summary_8M.txt**: Stellar data summary for a star with 8 solar masses.
+11. **summary_10M.txt**: Stellar data summary for a star with 10 solar masses.
 
 ## References
 
